@@ -12,6 +12,7 @@ function App() {
       <Variables/>
       <Eventos/>
       <Contador/>
+      
     </div>
   );
 }
